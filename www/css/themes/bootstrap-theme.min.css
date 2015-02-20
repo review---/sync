@@ -69,3 +69,7 @@ footer {
     border: 1px solid #aaaaaa;
     background-color: #ffffff;
 }
+
+.navbar-inverse .navbar-text-nofloat {
+    color: #9d9d9d;
+}
